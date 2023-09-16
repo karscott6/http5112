@@ -30,8 +30,8 @@ Virtual: Microsoft Teams
 
 [Professor Email](mailto:christine.bittle@humber.ca)
 
-[!Warning]
-**_WATCHING ALL THE VIDEOS AHEAD OF TIME IS KEY FOR THIS CLASS_** 
+> [!Warning]
+> WATCHING ALL THE VIDEOS AHEAD OF TIME IS KEY FOR THIS CLASS
 
 **Tuesday**  
 3:20p-6:00p  
