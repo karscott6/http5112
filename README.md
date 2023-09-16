@@ -10,6 +10,9 @@ Web Development Lab 1
 11:40a-2:20p  
 Virtual: Microsoft Teams
 
+> [!Important]
+> *No assigned assignments.*
+
 ## Weekly To-Do
 
 **Week 1**
@@ -33,6 +36,9 @@ Virtual: Microsoft Teams
 **Tuesday**  
 3:20p-6:00p  
 Virtual: Microsoft Teams
+
+> [!Important]
+> Assignment 1 Due: September 29 2023 23:59
 
 ## Weekly To-Do
 
