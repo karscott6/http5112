@@ -17,7 +17,7 @@ Virtual: Microsoft Teams
 - [x] Watch Module Videos
 
 **Week 2**
-- [x] Assignment 1
+- [x] **_Assignment 1_**
 
 **Week 3**
 - [ ] Prep
@@ -38,7 +38,7 @@ Virtual: Microsoft Teams
 
 **Week 2**
 - [ ] Watch Week 3 Module Videos
-- [ ] <mark>Assignment 1: Due September 29, 2023 23:59</mark>
+- [ ] **_Assignment 1: Due September 29, 2023 23:59_**
 
 **Week 3**
 - [ ] Watch Week 4 Module Videos
