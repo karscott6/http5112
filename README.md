@@ -20,12 +20,15 @@ Virtual: Microsoft Teams
 - [x] **_Assignment 1_**
 
 **Week 3**
-- [ ] Prep
+- [ ] Week 3 Prep (Check on Blackboard)
 
 
 ### C# ASP.NET - Christine Bittle
 
 [Professor Email](mailto:christine.bittle@humber.ca)
+
+[!Warning]
+**_WATCHING ALL THE VIDEOS AHEAD OF TIME IS KEY FOR THIS CLASS_** 
 
 **Tuesday**  
 3:20p-6:00p  
