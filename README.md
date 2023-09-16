@@ -42,3 +42,5 @@ Virtual: Microsoft Teams
 
 **Week 3**
 - [ ] Watch Week 4 Module Videos
+
+![First Query Success](_readme/serious.jpg)
