@@ -7,7 +7,7 @@ Web Development Lab 1
 [Professor Email](mailto:jemi.choi@humber.ca)
 
 **Wednesday**  
-11:40a-2:20p 
+11:40a-2:20p  
 Virtual: Microsoft Teams
 
 ## Weekly To-Do
@@ -28,7 +28,7 @@ Virtual: Microsoft Teams
 [Professor Email](mailto:christine.bittle@humber.ca)
 
 **Tuesday**  
-3:20p-6:00p 
+3:20p-6:00p  
 Virtual: Microsoft Teams
 
 ## Weekly To-Do
