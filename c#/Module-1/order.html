@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<!-- CODE WRITTEN BY KYLE SCOTT FOR HTTP-5112-RNA (09/11/2023) C# MODULE 1
+  VIDEO: "THE WEB LANDSCAPE PT.3"
+  https://www.youtube.com/watch?v=hlQft4bNXa4
+-->
+<html>
+    <head>
+        <title>Order a Pizza</title>
+    </head>
+    <body>
+        <h1>Order a Pizza</h1>
+        <form action="http://sandbox.bittsdevelopment.com/httpdebug.php" method="POST">
+            <div>
+                <label for="orderName">Name on Order</label>
+                <input type="text" name="orderName" id="orderName" placeholder="John Doe">
+            </div>
+            <div>
+                <label for="Toppings">Toppings</label>
+
+                <input id="topping1" name="topping1" type="checkbox" value="pepperoni">
+                <label for="topping1">Pepperoni</label>
+
+                <input id="topping12" name="topping12" type="checkbox" value="cheese">
+                <label for="topping12">Cheese</label>
+
+                <input id="topping13" name="topping13" type="checkbox" value="mushrooms">
+                <label for="topping13">Mushrooms</label>
+            </div>
+            <div>
+                <label for="Crust">Crust</label>
+
+                <input type="radio" id="crust1" name="crust" value="regular">
+                <label for="crust1">Regular</label>
+
+                <input type="radio" id="crust12" name="crust" value="gluten-free">
+                <label for="crust12">Gluten-Free</label>
+            </div>
+            <div>
+                <input type="submit" value="Order Now!">
+            </div>
+        </form>
+
+    </body>
+</html>
