@@ -23,7 +23,9 @@ Virtual: Microsoft Teams
 - [x] **_Assignment 1_**
 
 **Week 3**
-- [ ] Week 3 Prep (Check on Blackboard)
+- [x] Week 3 Prep (Check on Blackboard)
+- [x] **_Assignment 2: Due September 27, 2023 23:59_**
+- [ ] Week 4 Prep
 
 
 ### C# ASP.NET - Christine Bittle
@@ -46,10 +48,11 @@ Virtual: Microsoft Teams
 - [x] Watch Week 2 Module Videos
 
 **Week 2**
-- [ ] Watch Week 3 Module Videos
+- [x] Watch Week 3 Module Videos
 - [ ] **_Assignment 1: Due September 29, 2023 23:59_**
 
 **Week 3**
 - [ ] Watch Week 4 Module Videos
+- [ ] **_Assignment 1: Due September 29, 2023 23:59_**
 
 ![First Query Success](_readme/serious.jpg)
